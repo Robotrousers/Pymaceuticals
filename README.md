@@ -25,3 +25,9 @@ The following Python packages are required to be installed:
 - pandas
 - matplotlib.pyplot
 - scipy.stats
+ <br> 
+
+#### Sources
+Code for finding duplicates was found on StackOverflow
+
+https://stackoverflow.com/questions/67821283/pandas-dataframe-find-duplicate-rows-based-on-a-criteria
