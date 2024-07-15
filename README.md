@@ -38,3 +38,6 @@ https://stackoverflow.com/questions/25915225/pandas-dataframe-groupby-to-calcula
 https://matplotlib.org/stable/gallery/index.html
 
 -The Anaconda Assistant helped point out typos and syntax errors
+
+-Code for finding a value in column (.isin) was found on StackOverflow
+https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values/17071908#17071908
