@@ -28,10 +28,13 @@ The following Python packages are required to be installed:
  <br> 
 
 #### Sources
-Code for finding duplicates was found on StackOverflow
+-Code for finding duplicates was found on StackOverflow
 https://stackoverflow.com/questions/67821283/pandas-dataframe-find-duplicate-rows-based-on-a-criteria
 
-Code for using the alternate .agg method for was found on StackOverflow
+-Code for using the alternate .agg method for was found on StackOverflow
 https://stackoverflow.com/questions/25915225/pandas-dataframe-groupby-to-calculate-population-standard-deviation
 
-The Anaconda Assistant helped point out typos and syntax errors
+-Referred to Matplotlib documentation for charts code as well as previous class activities
+https://matplotlib.org/stable/gallery/index.html
+
+-The Anaconda Assistant helped point out typos and syntax errors
