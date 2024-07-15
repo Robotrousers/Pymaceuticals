@@ -33,3 +33,5 @@ https://stackoverflow.com/questions/67821283/pandas-dataframe-find-duplicate-row
 
 Code for using the alternate .agg method for was found on StackOverflow
 https://stackoverflow.com/questions/25915225/pandas-dataframe-groupby-to-calculate-population-standard-deviation
+
+The Anaconda Assistant helped point out typos and syntax errors
