@@ -25,3 +25,19 @@ The following Python packages are required to be installed:
 - pandas
 - matplotlib.pyplot
 - scipy.stats
+ <br> 
+
+#### Sources
+-Code for finding duplicates was found on StackOverflow
+https://stackoverflow.com/questions/67821283/pandas-dataframe-find-duplicate-rows-based-on-a-criteria
+
+-Code for using the alternate .agg method for was found on StackOverflow
+https://stackoverflow.com/questions/25915225/pandas-dataframe-groupby-to-calculate-population-standard-deviation
+
+-Referred to Matplotlib documentation for charts code as well as previous class activities
+https://matplotlib.org/stable/gallery/index.html
+
+-The Anaconda Assistant helped point out typos and syntax errors
+
+-Code for finding a value in column (.isin) was found on StackOverflow
+https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values/17071908#17071908
